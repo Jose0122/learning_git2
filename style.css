@@ -7,8 +7,11 @@ body{
     padding-top:10px;
 }
 p{
-    background-color:red
+    background-color:red;
 }
 h2{
-    colour:white
+    colour:white;
 }
+a{
+    margin : 10px;
+:
