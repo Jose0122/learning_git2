@@ -4,6 +4,7 @@ body{
 
 *{
     background-color : blue;
+    padding-top:10px;
 }
 p{
     background-color:red
